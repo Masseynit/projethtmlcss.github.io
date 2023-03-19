@@ -1,0 +1,53 @@
+body{
+    background-color: thistle;
+    background-size: cover;
+    background-image: url(https://th.bing.com/th/id/OIP.t6O--9EgH5jpfECdZpZuKwHaE7?pid=ImgDet&rs=1);
+}
+
+
+
+#menu ul>li{
+    font-size: 24px;
+    display: inline-block;
+    margin-left: 6%;
+    line-height: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(100, 19, 19);
+    
+}
+
+#menu ul>li #back{
+    float: right;
+}
+
+li a:hover{
+    color: rgb(88, 217, 235);
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+h1{
+    color: magenta;
+}
+
+
+.p{
+    width: 45%;
+    height: 500px;
+    margin-top: 5%;
+    margin-right: 5%;
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+    float: right;
+}
+
+
+.imgP{   
+    float: left;
+    padding-left: 3%;
+}

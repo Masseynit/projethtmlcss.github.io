@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.73ea9e321fc919d35ecc976cfa70003c?rik=3Za6PYkQjX%2f8eg&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+#menu ul>li{
+    font-size: 24px;
+    display: inline-block;
+    margin-left: 6%;
+    line-height: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(100, 19, 19);
+    
+}
+
+
+li a:hover{
+    color: rgb(88, 217, 235);
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.sydney {
+    padding-left: 10%;
+    width: 45%;
+    height: 500px;
+    margin-top: 5%;
+    margin-right: 5%;
+    font-size: 35px;
+    color: beige;
+    text-align: justify;
+    float: right;
+}
+
+.sydney h1{
+    color: lavenderblush;
+}
+
+
+.imgS{
+    float: left;
+}
+
+
